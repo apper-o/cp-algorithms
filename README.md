@@ -18,7 +18,7 @@
 2) Manacher
 3) Trie
 4) Z-function
-5) Hashes
+5) Rolling Hashes
 
 ## **Number Theory**
 1) Euler's Totient
