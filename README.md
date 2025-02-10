@@ -1,6 +1,6 @@
-############################# TABLE OF CONTENTS #############################
+# **TABLE OF CONTENTS **
 
-		Graph Algorithms 
+## **Graph Algorithms **
 1) Flow (Dinics Algorithm)
 2) Dijkstra, Bellman-Ford, Floyd-Warshall, SPFA
 3) Bipartite Graph matching
@@ -14,7 +14,7 @@
 9) MST
 10) BCC, Articulation Points & Bridges (low function)
 
-		Text Algorithms
+## **Text Algorithms**
 1) KMP
 2) Manacher
 3) Trie
@@ -22,18 +22,18 @@
 4) Z-function
 5) Hashes
 
-		Number Theory
+## **Number Theory**
 1) Euler's Totient
 2) Little Fermat's Theorem (modulo division)
 4) BigNum Library
 5) Matrix Exponentiation
 
-		Geometry
+## **Geometry**
 1) Convex Hull & Angle Sort
 2) Polygons and Point Intersection
 3) Basic Sweep Line algorithms
 
-		Data Structures
+## ** Data Structures**
 1) Segment Tree (point-range, range-range)
 2) Persistent Tree
 3) Pointer Tree
@@ -43,7 +43,7 @@
 7) MO
 
 
-		Dynamic Programming
+## **Dynamic Programming**
 1) Knapsack DP (with optimizations)
 2) Digit DP
 3) SOS DP
