@@ -6,7 +6,6 @@
 3) Bipartite Graph matching
 4) Eulerian Paths and Cycles
 5) Hamiltonian Path DP
-
 5) SCC & Topological Sort
 6) HLD
 7) Centroid Decomposition
@@ -18,7 +17,6 @@
 1) KMP
 2) Manacher
 3) Trie
-
 4) Z-function
 5) Hashes
 
@@ -33,7 +31,7 @@
 2) Polygons and Point Intersection
 3) Basic Sweep Line algorithms
 
-## **Data Structures **
+## **Data Structures**
 1) Segment Tree (point-range, range-range)
 2) Persistent Tree
 3) Pointer Tree
@@ -53,6 +51,6 @@
 
 
 ############################# TO DO #############################
-FFT (NT)
-Palindromic Tree (Text Algo)
-Primitive Root (NT)
+1) FFT (NT)
+2) Palindromic Tree (Text Algo)
+3) Primitive Root (NT)
